@@ -25,5 +25,9 @@ Cyclopes houses 4G/5G connectivity to enable, edge-cloud capabilities.
 ![models](https://github.com/vyzboy92/Cyclopes/blob/master/imgs/jetson_models.png)
 
 
+# Stats
+
+![stat](https://github.com/vyzboy92/Cyclopes/blob/master/imgs/benchmark_nano.png)
+
 
 PS: Under constant developement. Functionalities subject to change
