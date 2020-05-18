@@ -19,3 +19,9 @@ Cyclopes houses 4G/5G connectivity to enable, edge-cloud capabilities.
 * Face detection
 * Segmentation -Cityscapes
 * Mask RCNN
+
+
+
+![models](https://github.com/vyzboy92/Cyclopes/blob/master/imgs/jetson_models.png)
+
+PS: Under constant developement. Functionalities subject to change
