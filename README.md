@@ -7,7 +7,15 @@ Cyclopes houses 4G/5G connectivity to enable, edge-cloud capabilities.
 
 ## Cyclopes data flow
 
-![img](https://drive.google.com/uc?export=view&id=1EAH99uxoS3PXX5BIve9uNb3qz7ao4wbE)
+![img](https://github.com/vyzboy92/Cyclopes/blob/master/imgs/CyclopsLayers.png)
 
 ## Applications
 
+* Object detection
+  * People
+  * Vehicles
+  * Sign boards
+  * Buildings
+* Face detection
+* Segmentation -Cityscapes
+* Mask RCNN
