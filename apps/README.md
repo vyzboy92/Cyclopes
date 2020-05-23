@@ -2,7 +2,8 @@
 This folder contains experimental apps which enables vision inferencing on the Jetson Nano and TX2 platforms.
 Experimental code enables testing and validating vision workflow in Jetson devices. Based on ```jetson-inference``` library by [dusty-nv](https://github.com/dusty-nv/jetson-inference)
 
-## Install jetson-inference
+## Installation
+### jetson-inference
 
 Here's a condensed form of the commands to download, build, and install ```jetson-inference```:
 
@@ -18,6 +19,10 @@ $ make -j$(nproc)
 $ sudo make install
 $ sudo ldconfig
 ```
+### imutils
+Run command:
+```pip install imutils```
+
 ## Apps
 Each app contains python samples for running inference on video file and MIPI CSI or Webcams.
 
