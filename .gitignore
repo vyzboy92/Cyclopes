@@ -112,9 +112,9 @@ dmypy.json
 *.log
 
 #nvidia models
-*.uff
-*.engine
-*.onxx
+#*.uff
+#*.engine
+#*.onxx
 
 # Pyre type checker
 .pyre/
