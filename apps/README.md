@@ -28,6 +28,7 @@ Each app contains python samples for running inference on video file and MIPI CS
 
 * SSD MobileNet V2
 * Segnet
+* Face Detection
 
 ## Know your camera
 To get the I/O information or location of all the cameras connected, run the command ```v4l2-ctl --list-devices```
